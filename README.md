@@ -65,7 +65,7 @@ This dashboard allows users to explore IMDb movie data from 2024 across multiple
 
 ## 📬 Contact
 
-For questions, drop a message or connect on [LinkedIn](https://www.linkedin.com/).
+For questions, drop a message or connect on [LinkedIn](www.linkedin.com/in/sai-vennela-yadavalli-8b854432a).
 
 ---
 
